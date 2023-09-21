@@ -1,0 +1,94 @@
+body{
+    background-image:url(https://wallpapers.com/images/hd/4k-blue-minimalist-deer-5fc2dalaakntatt7.jpg);
+    background-repeat: ;
+    background-attachment: fixed;
+}
+.ima{
+    width : 80px;
+    height: 90px;
+    background-color: rgb(211, 130, 9);
+    display: block;
+    float: left;
+
+}
+.na{
+    text-align: end;
+    text-decoration-color: rgb(218, 19, 56);
+    
+    
+}
+.na a:hover{
+    color: crimson;
+}
+#nam{
+    text-transform: capitalize;
+    text-align-last: center;
+    font-size: 50px;
+    margin-top: 200px;
+}
+#sec{
+    text-transform: capitalize;
+    text-align: center;
+    font-style: italic;
+    color: brown;
+}
+#sec a{
+    background: #b01919;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+}
+#abt{
+    background-image: url(https://cdn.pixabay.com/photo/2017/07/01/19/48/background-2462431_1280.jpg);
+}
+#abt-im{
+    width: 500px;
+    display: block;
+    float: left;
+}
+.opp{
+    font-size: xx-large;
+    font-style: italic;
+    color: chartreuse;
+}
+.tab{
+
+    
+  }
+  #col{
+    color: blue;
+  }
+  span{
+    color:yellowgreen;
+  }
+  .social{
+    text-align: center;
+   
+
+}
+.instagram {
+    background-color: #bc2a8d;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.facebook {
+    background-color: #3b5998;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.linkedin {
+    background-color: #0077b5;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+  
